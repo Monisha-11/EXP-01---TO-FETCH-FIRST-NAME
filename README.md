@@ -21,7 +21,7 @@ MYSQL PLATFORM.
       * Iterate over the rows of the result set.
       * Access the value of the "FIRST_NAME" column for each row.
       * Perform any required operations on the fetched data.
-6) Close the database connection.
+6) Close the database connection
 
 ## PROGRAM:
 
